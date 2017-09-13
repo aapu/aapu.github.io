@@ -1,0 +1,8 @@
+title: Aapu.GitHub.io
+description: aapu's github pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
